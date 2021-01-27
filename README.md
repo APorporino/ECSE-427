@@ -1,5 +1,5 @@
 # ECSE427
-Course assignments for McGill Operating System course (ECSE427)
+Assignments for McGill course : Operating System (ECSE427) 
 
 ## Overview
 
